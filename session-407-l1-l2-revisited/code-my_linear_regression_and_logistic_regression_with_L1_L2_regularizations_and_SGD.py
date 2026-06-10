@@ -46,6 +46,9 @@ class LogisticRegression:
         self.n_iters = n_iters
         self.weights = None
         self.bias = None
+        
+    def _sigmoid(self, z):
+        return 1 / (1 + np.exp(-z))
 
     def fit(self, X, y):
         n_samples, n_features = X.shape
