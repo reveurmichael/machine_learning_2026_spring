@@ -1,6 +1,6 @@
 # Converting a Neural Network Script into a Python Package
 
-**Goal:** Transform a single neural network script (`my_code_nn.py`) into a professional Python package (`simple_nn_utseus`) that can be installed via pip, published to PyPI (conceptually), and demonstrates proper Python packaging concepts.
+**Goal:** Transform a single neural network script (`code-my_nn.py`) into a professional Python package (`simple_nn_utseus`) that can be installed via pip, published to PyPI (conceptually), and demonstrates proper Python packaging concepts.
 
 **Inspirations**:
 - SpaceMining:
@@ -14,7 +14,7 @@
 
 ## 1️⃣ Understanding the Original Script
 
-Your `my_code_nn.py` contains several components:
+Your `code-my_nn.py` contains several components:
 
 - **Data loading**: `load_mnist_from_csv()`
 - **Layer classes**: `Layer`, `Dense`, `ReLU`
