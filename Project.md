@@ -151,6 +151,12 @@ You should investigate whether preprocessing pipelines can significantly improve
 * Real-time performance
 * Multi-speaker recognition quality
 
+
+This morning, one student told me he was using Strawberry. That's good as well.
+
+What we are really trying to do is understand the limits of these systems and explore where the boundaries are. Tools such as Strawberry represent one interesting extreme case: they may spend significantly more computation and reasoning effort on a problem than a standard LLM or ASR workflow. So to which extent things are still viable is a big question. And maybe it can be good to explore that.
+
+
 ---
 
 ## 4. Emotion in Audio/Voice/ASR
