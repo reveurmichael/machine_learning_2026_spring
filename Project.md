@@ -210,6 +210,23 @@ Therefore, your project is expected to:
 * Demonstrate deeper technical exploration
 * Reach a significantly higher standard in both engineering and research quality
 
+
+---
+
+Hi guys,
+
+Just a reminder: please make sure your proposals are genuinely research-level and not based on random AI hallucinations, superficial ideas, or loosely connected concepts.
+
+Every proposal should be grounded in the existing scientific literature. Before proposing an idea, identify the relevant papers, understand what has already been done, and clearly explain how your work extends, challenges, or improves upon prior research.
+
+Negative or inconclusive experimental results are not a problem. In research, failed hypotheses and unexpected outcomes are often valuable contributions.
+
+What is a problem is a lack of ambition, curiosity, or willingness to go beyond what is already known. I would much rather see a well-motivated, literature-grounded idea that produces negative results than a shallow project that simply repeats existing work without deeper investigation.
+
+Please start from the papers, not from the AI-generated idea.
+
+Thank you.
+
 ---
 
 # Development Tools
