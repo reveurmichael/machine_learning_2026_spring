@@ -225,6 +225,8 @@ What is a problem is a lack of ambition, curiosity, or willingness to go beyond 
 
 Please start from the papers, not from the AI-generated idea.
 
+You can use chatgpt deep research for looking at papers. Or Google Scholar.
+
 Thank you.
 
 ---
