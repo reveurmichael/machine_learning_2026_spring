@@ -153,7 +153,16 @@ You should investigate whether preprocessing pipelines can significantly improve
 
 ---
 
-## 4. Fun and Experimental Topic — “Pet Translation Device”
+## 4. Emotion in Audio/Voice/ASR
+
+one more interesting things that you might want to explore: Emotion in Audio/Voice/ASR.
+
+Do things at research level, instead of just "superfacial" level.
+
+---
+
+
+## 5. Fun and Experimental Topic — “Pet Translation Device”
 
 Another fun and creative direction is something similar to the following concept:
 
