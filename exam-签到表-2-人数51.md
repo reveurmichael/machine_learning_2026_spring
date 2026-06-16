@@ -1,5 +1,7 @@
 # 签到表
 
+FJ304 
+
 人数：51 （CN 28, FR 23）
 
 | 学号 | 姓名 | 签到 (中文 for Chinese students / FR for French students) |

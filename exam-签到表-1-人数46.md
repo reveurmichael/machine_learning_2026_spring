@@ -1,5 +1,7 @@
 # 签到表
 
+FJ306
+
 人数：46
 
 | 学号 | 姓名 | 签到 (中文 for Chinese students / FR for French students) |
