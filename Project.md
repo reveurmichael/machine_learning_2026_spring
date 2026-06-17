@@ -35,7 +35,7 @@ For each team, just one submission of the work is necessary, by one member of yo
 
 Deadline for submission:
 - The First Friday of the 14 days of Exam Weeks of SHU, 23:59.
-- For 2026, it's ?? ??/?? 23:59.
+- For 2026, it's 27/06 23:59.
 
 
 ![](./img/dates.jpg)
