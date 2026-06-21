@@ -252,3 +252,43 @@ However, you should go beyond simple programming or straightforward API usage. I
 
 you might need GPU access, you can go for https://www.autodl.com/home or other platforms.
 
+## One WeChat msg to students
+
+Hi everyone,
+
+I have now received submissions from two project groups. Thank you for the effort so far. However, I have to say that the gap between the current submissions and what I was expecting is still quite significant.
+
+The main issue MIGHT not be the implementation itself. The main issue is the lack of depth, justification, and supporting evidence.
+
+Many of the ideas presented MIGHT BE reasonable and somehow make sense, but the reports often do not clearly explain why certain design choices were made.
+
+For example:
+
+* Why did you choose a particular model?
+* Why did you choose WhisperX instead of Faster-Whisper or another alternative?
+* What does the literature say about this choice?
+* What limitations of previous work are you trying to address?
+* What hypothesis are you actually testing?
+
+These are the kinds of questions that a research-oriented project should answer.
+
+At the moment, your reports feel a little too lightweight. They might be  too short, too straightforward, and not sufficiently supported by literature, prior work, benchmarks, engineering analysis, or careful experimentation.
+
+I would strongly encourage you to:
+
+* Read papers related to your topic.
+* Cite existing research and explain how your work relates to it.
+* Investigate existing products, systems, and state-of-the-art models.
+* Compare alternative approaches and justify your decisions.
+* Go deeper into the engineering trade-offs.
+* Include figures, diagrams, tables, screenshots, audio examples, visualizations, and experimental results whenever possible.
+
+Remember that this project is supposed to be at a research level. I am not looking for a simple demonstration that something works. I am looking for evidence that you explored the problem seriously, understood the existing work, and thought carefully about the limitations, trade-offs, and possible improvements.
+
+Negative results are completely acceptable. What matters is the depth of the investigation.
+
+There are still a few days remaining before the deadline. Please use this time to strengthen your project. For the groups that have already submitted, I strongly recommend continuing to improve your work before the final deadline.
+
+Thank you.
+
+
