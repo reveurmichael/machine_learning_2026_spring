@@ -28,7 +28,7 @@ Forming groups:
         - prof will check the commit history of your GitHub repo to see how each team member is contributing  
 1. Zip the folder
 1. Upload the zip file to Google Drive
-1. Send the sharing link to the prof, by PRIVATE WeChat or by Email
+1. Send the sharing link to the prof, by PRIVATE WeChat or by Email ( lundechen@shu.edu.cn )
     - Therefore, in the WeChat/Email message, there are no attached files, just an Google Drive URL.
 
 For each team, just one submission of the work is necessary, by one member of your team.
